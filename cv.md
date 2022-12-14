@@ -1,12 +1,22 @@
-# Vitaliya Gil
+### Vitaliya Gil
 
-# Junior Frontend Developer
-
-# Contacts
+## Contacts
 
 * Telephon number: +375336063352 
 * Email: vitamopd@gmail.com
 * Inst:  @vvetkaaaa
 
-# About me:
+## Junior Frontend Developer
+
+# Code example
+```
+function greet(){
+  return "hello world!"
+}
+```
+# Education
+Студенка БГТУ
+# English
+B1
+
 
