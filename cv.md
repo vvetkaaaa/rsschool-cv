@@ -35,6 +35,6 @@ menuBtn.addEventListener('click', () =>{
 ****
 ## Languages:
 * English - A2
-![english](./english.png)
+   * ![english](./english.png)
 * Russian - Native
 * Belarussian - Intermidiate
