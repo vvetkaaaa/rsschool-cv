@@ -22,9 +22,10 @@
 * Git, Github
 * VS Code, VS
 * Adobe Photoshop, Figma
-****
+*****
 ## Code example:
-```JavaScript
+
+```javascript
 const menuBtn = document.querySelector('.menu-btn');
 const menu = document.querySelector('.menu__list');
 
